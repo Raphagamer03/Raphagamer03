@@ -11,12 +11,6 @@
 
 
 
-
-
-
-
-
-
 ## 🚀 Tecnologias que uso:
 
 <p align="center">
@@ -28,7 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
-![Snake animation](https://github.com/Raphagamer03/Raphagamer03/blob/output/github-contribution-grid-snake.svg)
 
 
 
