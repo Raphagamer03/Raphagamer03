@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphagamer03&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Raphagamer03/Raphagamer03/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/Raphagamer03/Raphagamer03/output/github-contribution-grid-snake.svg)
 
 
 
