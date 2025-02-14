@@ -18,8 +18,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload da animação
-        uses: actions/upload-artifact@v3
+      - name: Fazer upload da animação
+        uses: actions/upload-artifact@v3 # Atualizado para v3
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
