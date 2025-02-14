@@ -12,9 +12,14 @@ on:
 
 # Regras
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
@@ -23,7 +28,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: nomeUsuario #Seu usuario
+          github_user_name: RaphaGamer03 #Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
