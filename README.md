@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphagamer03&layout=compact&langs_count=6&theme=radical"/>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/Raphagamer03/Raphagamer03/output/github-contribution-grid-snake.svg)
+
+
 ## 🚀 Tecnologias que uso:
 
 <p align="center">
